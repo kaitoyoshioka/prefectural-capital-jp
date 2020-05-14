@@ -1,0 +1,29 @@
+{
+  "name": "prefectural-capital-jp",
+  "version": "1.0.0",
+  "description": "Returns the prefectural capital of the entered prefecture.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaitoyoshioka/prefectural-capital-jp.git"
+  },
+  "keywords": [
+    "prefecture",
+    "prefectural",
+    "capital",
+    "jp",
+    "japan"
+  ],
+  "author": "Kaito Yoshioka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kaitoyoshioka/prefectural-capital-jp/issues"
+  },
+  "homepage": "https://github.com/kaitoyoshioka/prefectural-capital-jp#readme",
+  "dependencies": {
+    "jp-prefecture": "^0.2.1"
+  }
+}
