@@ -1,7 +1,7 @@
 const jpPrefecture = require('jp-prefecture')
 
 const PrefecturalCapitalJp = function () {
-  this.prefecturalCapital = ''
+  this.prefecturalCapital = null
 }
 
 PrefecturalCapitalJp.prototype.PREFECTURAL_CAPITALS = [
